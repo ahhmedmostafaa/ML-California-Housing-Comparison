@@ -57,8 +57,3 @@ Anyone can call `model.fit()`. This project proves the math underneath actually 
 pip install numpy pandas scikit-learn matplotlib jupyter
 jupyter notebook california_housing_ml_comparison.ipynb
 ```
-
-## Roadmap
-- [ ] Add k-fold cross-validation
-- [ ] Hyperparameter tuning comparison (scratch vs sklearn)
-- [ ] Package the scratch models as an installable mini-library
