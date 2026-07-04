@@ -62,5 +62,3 @@ jupyter notebook california_housing_ml_comparison.ipynb
 - [ ] Add k-fold cross-validation
 - [ ] Hyperparameter tuning comparison (scratch vs sklearn)
 - [ ] Package the scratch models as an installable mini-library
-
----
