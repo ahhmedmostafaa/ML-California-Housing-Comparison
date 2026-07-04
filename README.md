@@ -64,4 +64,3 @@ jupyter notebook california_housing_ml_comparison.ipynb
 - [ ] Package the scratch models as an installable mini-library
 
 ---
-*Originally built as a university ML course project; refined for portfolio presentation.*
